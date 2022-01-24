@@ -4,11 +4,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/frontendmentor.svg" />][frontend]
+[<img alt="Website" src="https://img.shields.io/badge/Website-www.rowanconnaughton.com-success?style=for-the-badge&logo=googlechrome">][website]
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rowan%20Conaughton-blue?style=for-the-badge&logo=linkedin">][linkedin]
+[<img alt="FrontendMentor" src="https://img.shields.io/badge/FrontendMentor-Rowan%20Conaughton-orange?style=for-the-badge&logo=frontendmentor">][frontend]
 
 <br />
 
