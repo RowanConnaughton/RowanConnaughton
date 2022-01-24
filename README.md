@@ -9,7 +9,6 @@
 [<img alt="FrontendMentor" src="https://img.shields.io/badge/FrontendMentor-Rowan%20Conaughton-orange?style=flat-square&logo=frontendmentor">][frontend]
 
 <br />
-
 ### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
