@@ -14,19 +14,19 @@
 
 ### Languages and Tools:
 
-<img alt="javascript" src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript" />
-<img alt="React" src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react" />
-<img alt="NodeJS" src="https://img.shields.io/badge/-NodeJs-000000?style=for-the-badge&logo=nodedotjs" />
-<img alt="ThreeJS" src="https://img.shields.io/badge/-ThreeJS-000000?style=for-the-badge&logo=threedotjs" />
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=sass" />
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3" />
-<br/>
-<img alt="HTML" src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5" />
-<img alt="Terminal" src="http://img.shields.io/badge/-Termial-000000?style=for-the-badge&logo=windowsterminal" />
-<img alt="MySql" src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL&logoColor=ffffff" />
-<img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-000000?style=for-the-badge&logo=visualstudiocode" />
-<img alt="github" src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github" />
-<img alt="git" src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=git" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript" />
+<img align="left" alt="React" src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react" />
+<img align="left" alt="NodeJS" src="https://img.shields.io/badge/-NodeJs-000000?style=for-the-badge&logo=nodedotjs" />
+<img align="left" alt="ThreeJS" src="https://img.shields.io/badge/-ThreeJS-000000?style=for-the-badge&logo=threedotjs" />
+<img align="left" alt="Sass" src="https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=sass" />
+<img align="left" alt="CSS3" src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3" />
+<br/><br/>
+<img align="left" alt="HTML" src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5" />
+<img align="left" alt="Terminal" src="http://img.shields.io/badge/-Termial-000000?style=for-the-badge&logo=windowsterminal" />
+<img align="left" alt="MySql" src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL&logoColor=ffffff" />
+<img align="left" alt="VS Code" src="https://img.shields.io/badge/-VS_Code-000000?style=for-the-badge&logo=visualstudiocode" />
+<img align="left" alt="github" src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github" />
+<img align="left" alt="git" src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=git" />
 
 <br /><br />
 
