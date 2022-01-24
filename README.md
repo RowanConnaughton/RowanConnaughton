@@ -1,4 +1,4 @@
-### Hi there, I'm Rowan Connaughton - Front End Developer
+### Hi there 👋, I'm Rowan Connaughton - Front End Developer
 
 
 
