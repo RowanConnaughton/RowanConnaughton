@@ -4,11 +4,9 @@
 
 ### Connect with me:
 
-[<img alt="Website" src="https://img.shields.io/badge/Website-www.rowanconnaughton.com-success?style=for-the-badge&logo=googlechrome">][website]
-<br/>
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rowan%20Conaughton-blue?style=for-the-badge&logo=linkedin">][linkedin]
-<br/>
-[<img alt="FrontendMentor" src="https://img.shields.io/badge/FrontendMentor-Rowan%20Conaughton-orange?style=for-the-badge&logo=frontendmentor">][frontend]
+[<img alt="Website" src="https://img.shields.io/badge/Website-www.rowanconnaughton.com-success?style=flat-square&logo=googlechrome">][website]
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rowan%20Conaughton-blue?style=flat-square&logo=linkedin">][linkedin]
+[<img alt="FrontendMentor" src="https://img.shields.io/badge/FrontendMentor-Rowan%20Conaughton-orange?style=flat-square&logo=frontendmentor">][frontend]
 
 <br />
 
