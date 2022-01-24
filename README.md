@@ -7,8 +7,8 @@
 [<img alt="Website" src="https://img.shields.io/badge/Website-www.rowanconnaughton.com-success?style=flat-square&logo=googlechrome">][website]
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rowan%20Conaughton-blue?style=flat-square&logo=linkedin">][linkedin]
 [<img alt="FrontendMentor" src="https://img.shields.io/badge/FrontendMentor-Rowan%20Conaughton-orange?style=flat-square&logo=frontendmentor">][frontend]
-
 <br />
+
 ### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
