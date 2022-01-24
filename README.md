@@ -23,7 +23,7 @@
 ![MySql](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL&logoColor=ffffff)
 ![VSCode](https://img.shields.io/badge/-VS_Code-000000?style=for-the-badge&logo=visualstudiocode)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github)
-![Git](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
 
 <br /><br />
 
